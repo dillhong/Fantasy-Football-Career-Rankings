@@ -12,8 +12,7 @@ Metrics measures
 - Average Points For Rank
 
 Each metric is standardized (how many standard deviations above or below the mean) and added together to give a true value.
-
-Other metrics measures are miscellaneous
+Other metrics measures are miscellaneous.
 
 Work in Progress:
 - Rosters
